@@ -1,0 +1,19 @@
+{
+  "name": "w03-graph-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./spec",
+    "lint": "eslint ./"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.16.0"
+  }
+}
